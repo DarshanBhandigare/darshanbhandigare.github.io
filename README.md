@@ -35,6 +35,7 @@ This portfolio serves as my digital identity — a central place where I present
 
 - **HTML5** – Structure and content
 - **CSS3** – Styling and layout
+- **JAVASCRRIPT** – Logic
 - **GitHub Pages** – Hosting and deployment
 
 ---
