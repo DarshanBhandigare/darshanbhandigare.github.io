@@ -9,7 +9,7 @@ A personal portfolio website built with **HTML**, **CSS** and **JS**, designed t
 
 ## 📸 Preview
 
-![Portfolio Preview]([https://ibb.co/4RBgPsWq])
+![Portfolio Preview](https://i.ibb.co/Mkq5M8nv/Capture.jpg)
 
 ---
 
