@@ -3,13 +3,13 @@
 [![Portfolio](https://img.shields.io/badge/Live%20Portfolio-darshanbhandigare.github.io-blue?style=for-the-badge&logo=github)](https://darshanbhandigare.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/darshan-bhandigare/)
 
-A personal portfolio website built with **HTML** and **CSS**, designed to showcase my skills, projects, certifications, and experience as an aspiring software developer.
+A personal portfolio website built with **HTML**, **CSS** and **JS**, designed to showcase my skills, projects, certifications, and experience as an aspiring software developer.
 
 ---
 
 ## 📸 Preview
 
-![Portfolio Preview](https://i.ibb.co/Lhk1Mwv3/Capture.jpg)
+![Portfolio Preview]([https://i.ibb.co/Lhk1Mwv3/Capture.jpg])
 
 ---
 
