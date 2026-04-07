@@ -178,7 +178,7 @@ section {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   padding: 6rem 3rem 0;
   position: relative;
   overflow: hidden;
@@ -188,7 +188,8 @@ section {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
+  padding-top: 1rem;
 }
 
 .hero-photo {
@@ -199,6 +200,9 @@ section {
   display: flex;
   align-items: center;
   justify-content: center;
+  margin: 0 auto 0 0;
+  align-self: flex-start;
+  margin-top: 3.5rem;
   opacity: 0;
   animation: fadeUp 0.8s 1.2s forwards;
 }
@@ -1122,6 +1126,20 @@ footer {
   }
 
   .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  #about {
+    padding: 5rem 1.5rem 4rem;
+    grid-template-columns: 1fr;
+  }
+
+  .about-text {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .about-stats {
     grid-template-columns: 1fr;
   }
 }
