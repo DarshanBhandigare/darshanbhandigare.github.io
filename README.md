@@ -53,10 +53,6 @@ A responsive web app that generates clean and useful color palettes for design i
 - 🔗 [Live Demo](https://paletto-color-generator.vercel.app/)
 - 💻 [GitHub Repo](https://github.com/darshanbhandigare/paletto-color-generator)
 
-### 🗂️ Portfolio Website
-This very portfolio, built with HTML and CSS.
-- 🔗 [Live Site](https://darshanbhandigare.github.io/)
-
 ---
 
 ## 🏅 Certifications
