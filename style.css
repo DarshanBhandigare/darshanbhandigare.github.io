@@ -24,6 +24,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
   overflow-x: hidden;
 }
 
@@ -170,6 +171,7 @@ nav {
 section {
   position: relative;
   z-index: 1;
+  scroll-margin-top: 6rem;
 }
 
 /* Hero */

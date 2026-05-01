@@ -7,6 +7,10 @@ export default function useLenis() {
       lerp: 0.08,
       smoothWheel: true,
       smoothTouch: false,
+      anchors: {
+        offset: 96,
+      },
+      stopInertiaOnNavigate: true,
     });
 
     let rafId = 0;
