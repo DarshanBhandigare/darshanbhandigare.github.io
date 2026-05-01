@@ -7,13 +7,13 @@ export const navLinks = [
 ];
 
 export const skills = [
-  { icon: "C++", name: "C / C++", level: "Core Language", width: 80 },
-  { icon: "Py", name: "Python", level: "Scripting & AI", width: 65 },
-  { icon: "Web", name: "HTML CSS & JS", level: "Web Development", width: 75 },
-  { icon: "DSA", name: "Data Structures", level: "Algorithms & Problem Solving", width: 70 },
-  { icon: "AI", name: "Generative AI", level: "Oracle Certified", width: 60 },
-  { icon: "Git", name: "Git & GitHub", level: "Version Control", width: 72 },
-  { icon: "Java", name: "Java", level: "Object-Oriented Programming", width: 55 },
+  { icon: "⚙️", name: "C / C++", level: "Core Language", width: 80 },
+  { icon: "🐍", name: "Python", level: "Scripting & AI", width: 65 },
+  { icon: "🌐", name: "HTML CSS & JS", level: "Web Development", width: 75 },
+  { icon: "🧠", name: "Data Structures", level: "Algorithms & Problem Solving", width: 70 },
+  { icon: "🤖", name: "Generative AI", level: "Oracle Certified", width: 60 },
+  { icon: "🔧", name: "Git & GitHub", level: "Version Control", width: 72 },
+  { icon: "☕", name: "Java", level: "Object-Oriented Programming", width: 55 },
 ];
 
 export const projects = [
