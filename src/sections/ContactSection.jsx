@@ -14,8 +14,8 @@ export default function ContactSection() {
           I&apos;m always open to new opportunities, collaborations, and conversations. Feel free to reach out - I&apos;ll
           reply as soon as I can.
         </p>
-        <a href="mailto:darshanbhandigare9@gmail.com" className="contact-email">
-          darshanbhandigare9@gmail.com
+        <a href="mailto:bhandigaredarshan@gmail.com" className="contact-email">
+          bhandigaredarshan@gmail.com
         </a>
         <div className="hero-ctas">
           <a
