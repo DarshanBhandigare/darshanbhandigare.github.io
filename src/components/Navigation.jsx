@@ -9,7 +9,11 @@ export default function Navigation({ links }) {
       <ul className={`nav-links ${menuOpen ? "active" : ""}`}>
         {links.map((link) => (
           <li key={link.href}>
-            <a href={link.href} onClick={() => setMenuOpen(false)}>
+            <a
+              href={link.href}
+              download={link.download}
+              onClick={() => setMenuOpen(false)}
+            >
               {link.label}
             </a>
           </li>

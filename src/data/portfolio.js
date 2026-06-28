@@ -4,6 +4,7 @@ export const navLinks = [
   { label: "Projects", href: "#projects" },
   { label: "Certs", href: "#certifications" },
   { label: "Contact", href: "#contact" },
+  { label: "Resume", href: "/DARSHAN_BHANDIGARE.pdf", download: "DARSHAN_BHANDIGARE.pdf" },
 ];
 
 export const skills = [
