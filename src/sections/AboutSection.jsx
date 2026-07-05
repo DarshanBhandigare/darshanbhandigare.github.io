@@ -7,12 +7,11 @@ export default function AboutSection() {
         <SectionHeader number="01" title="About" />
         <div className="about-text">
           <p>
-            I&apos;m a <strong>first-year B.Sc. Information Technology student</strong> at D.G. Ruparel College of Arts,
-            Science and Commerce in Mumbai - building my foundation one commit at a time.
+            I&apos;m a <strong>BSc IT student at</strong> D.G. Ruparel College with hands-on experience building and deploying full-stack web applications using <b>React.js, HTML, CSS, JavaScript, and SQL.</b>
           </p>
           <p>
-            My focus is on <strong>core technical proficiency</strong>: hands-on projects in <strong>C/C++</strong>,
-            data structures, algorithms, and web development. I believe in learning by building - every project is a
+            My focus is on <strong>full-stack developmet and DSA in C++</strong>: hands-on projects in
+            web development. I believe in learning by building - every project is a
             step forward.
           </p>
           <p>
@@ -34,13 +33,13 @@ export default function AboutSection() {
         </div>
         <div className="stat-box">
           <div className="stat-num" style={{ color: "var(--accent2)" }}>
-            3
+            4
           </div>
           <div className="stat-label">Live Projects</div>
         </div>
         <div className="stat-box">
           <div className="stat-num" style={{ color: "var(--green)" }}>
-            inf
+            ∞
           </div>
           <div className="stat-label">Learning Mode</div>
         </div>

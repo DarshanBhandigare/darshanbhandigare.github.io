@@ -62,15 +62,15 @@ export default function ContactSection() {
               <span className="t-blue">~</span> <span className="t-muted">$</span> cat skills.txt
             </div>
             <div>
-              <span className="t-purple">C/C++</span> .
-              <span className="t-purple">Python</span> .
-              <span className="t-purple">Java</span>
+              <span className="t-purple"> C/C++</span> .
+              <span className="t-purple"> Python</span> 
             </div>
             <div>
-              <span className="t-purple">HTML/CSS/JS</span> .
-              <span className="t-purple">DSA</span> .
-              <span className="t-purple">Gen AI</span> .
-              <span className="t-purple">Git</span>
+              <span className="t-purple"> HTML/CSS/JS</span> . 
+              <span className="t-purple"> React JS</span> . 
+              <span className="t-purple"> DSA</span> .
+              <span className="t-purple"> Gen AI</span> .
+              <span className="t-purple"> Git</span>
             </div>
             <br />
             <div>

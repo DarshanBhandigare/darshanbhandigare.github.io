@@ -12,6 +12,7 @@ export default function ProjectsSection({ projects }) {
         </div>
         <div className="projects-rail">
           <ProjectCard {...projects[2]} />
+          <ProjectCard {...projects[3]} />
         </div>
       </div>
     </section>

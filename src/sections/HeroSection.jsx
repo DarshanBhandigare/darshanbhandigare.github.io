@@ -13,7 +13,7 @@ export default function HeroSection() {
           <span>Bhandigare</span>
         </h1>
         <p className="hero-sub">
-          // Aspiring Software Developer
+          // Software Developer
           <br />
           // Building with C/C++, DSA & Web Dev
           <br />
@@ -47,7 +47,7 @@ export default function HeroSection() {
       <div className="hero-counter">
         <strong>4</strong>
         <span>Certifications</span>
-        <strong style={{ marginTop: "1rem" }}>3</strong>
+        <strong style={{ marginTop: "1rem" }}>4</strong>
         <span>Live Projects</span>
       </div>
     </section>

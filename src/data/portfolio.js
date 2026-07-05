@@ -10,11 +10,11 @@ export const navLinks = [
 export const skills = [
   { icon: "⚙️", name: "C / C++", level: "Core Language", width: 80 },
   { icon: "🐍", name: "Python", level: "Scripting & AI", width: 65 },
-  { icon: "🌐", name: "HTML CSS & JS", level: "Web Development", width: 75 },
+  { icon: "⚛", name: "React JS", level: "Frontend Development", width: 55 },
+  { icon: "🌐", name: "HTML CSS & JS", level: "Web Development", width: 85 },
   { icon: "🧠", name: "Data Structures", level: "Algorithms & Problem Solving", width: 70 },
   { icon: "🤖", name: "Generative AI", level: "Oracle Certified", width: 60 },
   { icon: "🔧", name: "Git & GitHub", level: "Version Control", width: 72 },
-  { icon: "☕", name: "Java", level: "Object-Oriented Programming", width: 55 },
 ];
 
 export const projects = [
@@ -27,6 +27,16 @@ export const projects = [
     live: "https://invovault.vercel.app/",
     github: "https://github.com/DarshanBhandigare/InvoVault",
   },
+
+  {
+    type: "HackX 2.0(FrontEnd Developer)",
+    title: "InfraMind AI",
+    description: "Built a predictive infrastructure management platform using AI-driven risk scoring to detect and flag potential infrastructure failures before they occur.",
+    tags: ["React.js", "JavaScript", "HTML/CSS", "Firebase"],
+    live: "https://inframind-ai.vercel.app/",
+    github: "https://github.com/DarshanBhandigare/InfraMind-AI",
+  },
+
   {
     type: "Web App",
     title: "Paletto",
@@ -41,7 +51,7 @@ export const projects = [
     title: "Portfolio Website",
     description:
       "A personal portfolio website to showcase skills, projects, and certifications. Designed and built from scratch with HTML, CSS and JS, deployed on GitHub Pages.",
-    tags: ["HTML", "CSS", "JavaScript", "GitHub Pages"],
+    tags: ["React JS", "CSS", "JavaScript", "GitHub Pages"],
     live: "https://darshanbhandigare.github.io/",
     github: "https://github.com/DarshanBhandigare/darshanbhandigare.github.io",
   },
